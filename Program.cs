@@ -12,6 +12,8 @@ c.Conseno(30);
 c.Seno(30);
 c.Tangente(30);
 
+c.RaziQuadrada(9);
+
 // Incremento e decremento
 int numero = 10;
 
