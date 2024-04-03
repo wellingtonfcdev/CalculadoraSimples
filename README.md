@@ -3,7 +3,13 @@
 
 Este é um projeto de uma Calculadora iniciado para estudo e familiarização de alguns comandos e conceitos na programação com C#.
 
-Nesse projeto procurei utilizar a sintaxe camelCase e PascalCase para criar classes e variáveis.
+Projeto realizado durante o curso na plataforma da [Digital Innovation One](https://www.dio.me/)
+
+## 📚 O que utilizei nesse projeto
+- Sintaxe camelCase e PascalCase na criação de classes e variáveis
+- Tipo de dados
+- Manipulação de variáveis
+- Classe Math
 
 ## Linguagens de Programação
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
