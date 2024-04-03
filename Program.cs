@@ -8,6 +8,6 @@ c.Multiplicar(10,2);
 c.Dividir(10,2);
 c.Potencia(3,9);
 
-c.Conseno(50);
-c.Seno(20);
+c.Conseno(30);
+c.Seno(30);
 c.Tangente(30);

@@ -56,7 +56,7 @@ namespace CalculadoraSimples.Models
             double radiano = angulo * Math.PI / 180;
             double tangente = Math.Tan(radiano);
 
-            Console.WriteLine($"Tangente de {tangente} = {Math.Round(tangente,4)}");
+            Console.WriteLine($"Tangente de {angulo} = {Math.Round(tangente,4)}");
             
         }
     }
