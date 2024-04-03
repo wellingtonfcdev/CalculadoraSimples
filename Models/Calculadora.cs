@@ -38,7 +38,7 @@ namespace CalculadoraSimples.Models
             double radiano = angulo * Math.PI / 180;
             double seno = Math.Sin(radiano);
 
-            Console.WriteLine($"Seno de {angulo} = {seno}");
+            Console.WriteLine($"Seno de {angulo} = {Math.Round(seno)}");
 
         }
 
@@ -47,7 +47,7 @@ namespace CalculadoraSimples.Models
             double radiano = angulo * Math.PI / 180;
             double coseno = Math.Cos(radiano);
 
-            Console.WriteLine($"Coseno de {angulo} = {coseno}");
+            Console.WriteLine($"Coseno de {angulo} = {Math.Round(coseno)}");
             
         }
 
@@ -56,7 +56,7 @@ namespace CalculadoraSimples.Models
             double radiano = angulo * Math.PI / 180;
             double tangente = Math.Tan(radiano);
 
-            Console.WriteLine($"Tangente de {tangente} = {tangente}");
+            Console.WriteLine($"Tangente de {tangente} = {Math.Round(tangente)}");
             
         }
     }
